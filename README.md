@@ -1,2 +1,2 @@
 # shared-content
-Shared Content
+This is shared content that will be part of both the iOS and android app. The content will be shared via a `git submodule`.
